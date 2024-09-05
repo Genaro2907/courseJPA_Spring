@@ -1,4 +1,4 @@
-package com.treinamentoJPA.courseJPA.services.exceptions.ResourceNotFoundException;
+package com.treinamentoJPA.courseJPA.services.exceptions;
 
 public class ResourceNotFoundException extends RuntimeException{
 	private static final long serialVersionUID = 1L;
